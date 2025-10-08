@@ -30,3 +30,21 @@ HOW IT WORKS
    easy-to-read format
 
 
+               TASK 2.
+
+Create a Personalized Greeting
+
+Description
+
+This is a simple Python program that:
+
+1. Takes the user's (first name) and (last name) as input.  
+2. Joins them together to form a (full name).  
+3. Prints a personalized (greeting message) using the full name.  
+
+How It Works
+
+1.  The program uses Python’s 'input()' function to get user input.  
+2.  The first and last names are combined using '+'.  
+3.  The 'print()' function displays a friendly greeting message.
+
